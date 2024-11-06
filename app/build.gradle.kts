@@ -12,7 +12,6 @@ dependencies {
 }
 
 application {
-    // Вказати основний клас програми
     mainClass.set("SumCalculator")
 }
 
